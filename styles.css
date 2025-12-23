@@ -2,6 +2,9 @@
     text-align: center;
 }
 button{
-    color: coral;
+    color:darkgoldenrod;
     width: 150px;
+}
+body{
+    background-color:cadetblue;
 }
